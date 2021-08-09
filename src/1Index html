@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Это я тот самый Карсаев">
+    <meta name="author" content="Александр">
+    <meta name="keywords" content="сайт визитка и тп.">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="Это я тот самый Карсаев">
+           
+            <title>Урок 2 HTML</title>
+</head>
+
+<body>
+ <h1>Я устал от всех и всё</h1>   
+ <h2>Я устал от всех и всё</h2>
+ <h3>Я устал от всех и всё</h3>
+ <h4>Я устал от всех и всё</h4>
+ <h5>Я устал от всех и всё</h5>
+ <h6>Я устал от всех и всё</h6>
+
+<header>
+ 
+ <nav></nav>
+ 
+ </header>
+ 
+ <footer></footer>
+ 
+ <div></div>
+ 
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.     <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, impedit.</span>
+ Dolor veniam perferendis magni eaque sit, itaque delectus, eligendi minima obcaecati praesentium eos repellat at? Suscipit, aspernatur nemo saepe perferendis. Officia, illo!20</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor veniam perferendis magni eaque sit, itaque delectus, eligendi minima obcaecati praesentium eos repellat at? Suscipit, aspernatur nemo saepe perferendis. Officia, illo!20</p>
+    
+<ul>
+   <li>Элемент</li> 
+   <li>Элемент</li> 
+   <li>Элемент</li> 
+</ul>
+<ol>
+    <li>Элемент</li> 
+    <li>Элемент</li> 
+    <li>Элемент</li> 
+</ol>
+    
+    <h4><span>Топ <big>АНИМЕ</big> с <small>тянками</small>, <em>от</em>  <b>САНИ</b>.</span>
+</h4>
+   <h2>Первое место - DxD </h2>
+
+    <img src="img/xxMIUtQAPyc.jpg" alt="Тянка сбежала"style width="400px">
+     <h2><a href="https://jut-su.net/30-starshaja-shkola-dxd.html" target="_blank" >Аниме с этой тянкой</a></h2>
+    
+    
+    
+    <table border="1">
+        <tr>
+            <th>Значение 1</th>
+            <th>Значение 2</th>
+        </tr>
+        <tr>
+            <td>ячейка 1</td>
+            <td>ячейка 2</td>
+        </tr>
+        <tr>
+            <td>ячейка 1</td>
+            <td>ячейка 2</td>
+        </tr>
+        <tr>
+            <td>ячейка 1</td>
+            <td>ячейка 2</td>
+        </tr>
+    </table>
+    
+    
+    
+    
+    <form action="2">
+    
+    
+    <input type="text" name="text_input" value="" placeholder="Введите ваше имя">
+<input type="password">
+    <input type="tel">
+        <input type="number">
+    <input type="radio"name="text_input1"value="1">
+    <input type="radio"name="text_input1"value="2">
+    <input type="radio"name="text_input1"value="3">
+<input type="checkbox"name="check"value="4">Левая
+<input type="checkbox"name="check1"value="5">Правая
+    <input type="file">
+        <textarea name="name1" id="1" cols="30" rows="10">
+        </textarea>
+
+<select name="list1" id="list" multiple>
+    
+    <option value="opt1">option 1</option>
+    <option value="opt2">option 2</option>
+    <option value="opt3">option 3</option>
+    <option value="opt4">option 4</option>
+</select>
+
+
+           <input type="submit" value="Отправить">
+
+       
+    </form>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</body>
+
+</html>
